@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "アンインストール",
+  "base_artist": "石川智晶",
+  "createdAt": "2025-12-02T18:16:43.605808Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "YURiE",
+      "has_synced": false,
+      "path": "select/01_アンインストール_YURiE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "石川智晶",
+      "has_synced": true,
+      "path": "select/02_アンインストール_石川智晶.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "Chiaki Ishikawa",
+      "has_synced": false,
+      "path": "select/03_アンインストール_Chiaki_Ishikawa.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンインストール - Uninstall",
+      "artist": "Chiaki Ishikawa",
+      "has_synced": true,
+      "path": "select/04_アンインストール_-_Uninstall_Chiaki_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "Chiaki Ishikawa",
+      "has_synced": true,
+      "path": "select/05_アンインストール_Chiaki_Ishikawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンインストール(作詞賞)",
+      "artist": "石川 智晶",
+      "has_synced": false,
+      "path": "select/06_アンインストール(作詞賞)_石川_智晶.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンインストール (without vocal)",
+      "artist": "石川智晶",
+      "has_synced": false,
+      "path": "select/07_アンインストール_(without_vocal)_石川智晶.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンインストール(テレビアニメ\"ぼくらの\"Op)",
+      "artist": "石川智晶",
+      "has_synced": true,
+      "path": "select/08_アンインストール(テレビアニメ_ぼくらの_Op)_石川智晶.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "石川 智晶",
+      "has_synced": true,
+      "path": "select/09_アンインストール_石川_智晶.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/10_アンインストール_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンインストール",
+      "artist": "m.o.v.e",
+      "has_synced": false,
+      "path": "select/11_アンインストール_m.o.v.e.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンインストール",
+      "artist": "石川 智晶",
+      "has_synced": false,
+      "path": "select/pl_01_アンインストール_石川_智晶.txt"
+    }
+  ]
+}
